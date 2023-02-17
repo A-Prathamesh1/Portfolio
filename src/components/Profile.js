@@ -2,7 +2,7 @@ export default function Profile() {
         const user = { firstName: 'Prathamesh', lastName: 'Ausekar', age: 30 };
         return (
                 <>
-                        <h1>Hi, I am {user.firstName + ' ' + user.lastName}</h1>
+                        <h1>HI, I am {user.firstName + ' ' + user.lastName}</h1>
                         <img src="Prathamesh.JPG" alt="prat_img"></img>
                         <br />
                         prathamesh.ausekar1@gmail.com
