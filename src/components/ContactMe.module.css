@@ -1,0 +1,11 @@
+.inputform {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+}
+
+textarea,
+input {
+        border-radius: 7px;
+        max-width: min-content;
+}
